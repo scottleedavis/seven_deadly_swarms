@@ -13,6 +13,6 @@ setup(
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: Apache 2p License",
+        "License :: OSI Approved :: MIT License",
     ],
 )
