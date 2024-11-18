@@ -2,6 +2,7 @@
 
 **Seven Deadly Swarms** is a Python library that allows you to dynamically modify text by either adding or removing elements inspired by the **seven deadly sins**: Pride, Greed, Wrath, Envy, Lust, Gluttony, and Sloth.
 
+
 With this library, you can:
 - **Add elements** to embellish and amplify text in the style of the seven sins.
 - **Remove elements** to cleanse the text of any references or traits associated with the seven sins.
