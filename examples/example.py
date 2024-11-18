@@ -2,9 +2,9 @@ import sys
 import os
 
 # Add the parent directory to the Python path
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from seven_deadly_swarms.seven_deadly_swarms import SevenDeadlySwarms
+from seven_deadly_swarms import SevenDeadlySwarms
 
 # Example usage
 swarms = SevenDeadlySwarms()
