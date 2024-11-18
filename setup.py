@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="seven_deadly_swarms",
-    version="1.0.0",
+    version="1.0.1",
     description="A Python library to modify text based on the seven deadly sins.",
     author="Scott Davis",
     author_email="scottleedavis@gmail.com",
